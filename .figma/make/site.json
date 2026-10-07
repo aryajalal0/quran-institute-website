@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a comprehensive platform for a Quran Institute, enabling public access to information while allowing admins to manage content and analytics.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
